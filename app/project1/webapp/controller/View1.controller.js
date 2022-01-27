@@ -58,7 +58,7 @@ sap.ui.define([
                     });
                   },
                   error: function (err) {
-                    sap.m.MessageToast.show("Error in assigning Profiles");
+                    sap.m.MessageToast.show("Error get");
                   },
                 });
               }
