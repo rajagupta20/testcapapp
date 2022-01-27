@@ -1,0 +1,14 @@
+<mvc:View
+    controllerName="tcap.project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+>
+
+    <Page >
+    <content>
+        <Button text="Hello" press="onPress"/>
+    </content>
+    </Page>
+
+</mvc:View>
