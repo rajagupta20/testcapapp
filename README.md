@@ -1,25 +1,3 @@
-# Getting Started
+CAP Multitenant Application along with a SAPUI5 Free-style Project
 
-Welcome to your new project.
-
-It contains these folders and files, following our recommended project layout:
-
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
-
-
-## Next Steps
-
-- Open a new terminal and run `cds watch` 
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
-
-
-## Learn More
-
-Learn more at https://cap.cloud.sap/docs/get-started/.
+CAP project is generated using HANA Academy generator https://www.youtube.com/watch?v=0JoDPapUAh4&list=PLkzo92owKnVx3Sh0nemX8GoSNzJGfsWJM&index=11
